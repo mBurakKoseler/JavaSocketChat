@@ -107,9 +107,6 @@ Bu proje açık kaynaklıdır ve MIT Lisansı ile lisanslanmıştır.
 
 [ Özel mesaj gönderme ve kullanıcı listeleme özelliğinin kullanımı ]
 
-![image](https://github.com/user-attachments/assets/7cc2ef0e-0baf-45ff-9715-8e8fb95b4914)
-
-[ Spam tespiti yapılması ve kısıtlama uygulanması ]
 
 
 
